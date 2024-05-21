@@ -1,2 +1,2 @@
 # Play This!
-An SoundCloud Alternative Front End
+A SoundCloud Alternative Front End
